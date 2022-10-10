@@ -1,0 +1,39 @@
+header, .menu-list {
+    display: inline-flex;
+
+}
+
+
+header {
+    display: inline-flex;
+}
+header img{
+    width: 5em;
+}
+
+
+.menu{
+    margin-left: auto;
+    align-self: center;
+}
+
+
+.menu-list{
+    list-style: none;
+}
+
+.menu-list li{
+    padding: 0 5px;
+}
+footer p{
+    font-weight: bold;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 2px solid black;
+    text-align: center;
+}
