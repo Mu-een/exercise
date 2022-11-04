@@ -46,3 +46,25 @@ th, td{
 h2{
     text-align: center;
 }
+
+.menu-list :hover{
+    color:black;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.positions :first-child{
+    font-weight: bold;
+}  
+
+.positions :last-child{
+    font-weight: bold;
+}
+h2::first-letter{
+    background-color: pink;
+}
+
+h2{
+    text-shadow: .5vw .5vw 0vw gray;
+}
